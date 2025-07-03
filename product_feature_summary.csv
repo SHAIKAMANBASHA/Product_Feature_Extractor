@@ -1,0 +1,21 @@
+﻿review_id,review_text,extracted_features,,
+1,"I love the design, but the phone heats up quickly.","Feature: design, Sentiment: positive
+Feature: heating, Sentiment: negative",,
+2,"The battery lasts very long, but the screen is dull.","Feature: battery life, Sentiment: positive
+Feature: screen, Sentiment: negative",,
+3,Camera quality is excellent and very clear.,"Feature: camera, Sentiment: positive",,
+4,The sound is poor and the volume is too low.,"Feature: sound, Sentiment: negative
+Feature: volume, Sentiment: negative",,
+5,The screen is bright and the touch response is smooth.,"Feature: screen, Sentiment: positive
+Feature: touch response, Sentiment: positive",,
+6,"Performance is great, but the phone drains battery fast.","Feature: battery life, Sentiment: negative",,
+7,"Speaker quality is bad, but I love the camera.","Feature: speaker, Sentiment: negative
+Feature: camera, Sentiment: positive",,
+8,"It has a good display, but gets hot during charging.","Feature: display, Sentiment: positive
+Feature: heating, Sentiment: negative",,
+9,Amazing battery life and fast performance.,"Feature: battery life, Sentiment: positive
+Feature: performance, Sentiment: positive",,
+10,"The phone is lightweight, but the build feels cheap.","Feature: weight, Sentiment: positive
+Feature: build quality, Sentiment: negative",,
+,,,,
+,,,,
